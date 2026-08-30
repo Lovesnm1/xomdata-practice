@@ -1,0 +1,8 @@
+-- Xom Data · Orders with customer names
+-- Problem: https://xomdata.com/practice/easy-join-001
+-- Solved: 2026-08-30
+
+-- Viết SQL của bạn ở đây
+    SELECT order_code, customer_name, amount
+    FROM customers
+    JOIN orders on customer_id = customers.id
