@@ -209,5 +209,10 @@
   "practice/sql/easy/easy-leftjoin-001/solution.sql": "90d2bb06d3c5cefb2dcb5fbce30b513410ccb2bab31b64a16e912d38c37c8808",
   "practice/sql/easy/easy-not-001/solution.sql": "ae173ed25e453277ab4eae894d13531877af53ac14ca86cfc6b0a38c08849ec9",
   "practice/python/easy/py-index-of-max/solution.py": "ebca617980b4fa0111d64093c677181607126760a8d08c0b6de4def7a4c2847b",
-  "practice/python/medium/py-next-workday/solution.py": "c037ad9e6abfe50e0557751a079e63858570e5a2817df831336547dc93fc84d6"
+  "practice/python/medium/py-next-workday/solution.py": "c037ad9e6abfe50e0557751a079e63858570e5a2817df831336547dc93fc84d6",
+  "practice/sql/easy/medium-monetary-001/solution.sql": "d051e7917ef3808eb132f660dd753e3c84b4fce886c5722f2830299c64a8b0e2",
+  "practice/sql/easy/easy-orderby-003/solution.sql": "399530f21aecdbdcf72ffbbed900adf6a021a66736a0456f60a42b7e19e2c4df",
+  "practice/sql/easy/easy-min-001/solution.sql": "7bf76a098e8ad45e3b5035989c737d179970721250b80ef792cdf886208ebf29",
+  "practice/sql/easy/easy-like-002/solution.sql": "47cfe0a7a793aadc63ef6a71d5e289d6c7da0e4717e1a453c13e262aeee71f1e",
+  "practice/sql/easy/easy-notlike-001/solution.sql": "359c158f2d4c8b29e30914fe6315a8f93e9b8a87f1a953937b57cffef79c0734"
 }
