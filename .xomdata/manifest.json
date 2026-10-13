@@ -207,5 +207,7 @@
   "practice/sql/medium/medium-groupby-097/solution.sql": "e10704ea1c891a3589d5ede08957801ac78825e7b5a27ee067d4416c7460e2ab",
   "practice/sql/easy/easy-round-001/solution.sql": "07665482ef7a0a216893a689486c3d3e0ef2326e2679982206ed9fc9871d50d7",
   "practice/sql/easy/easy-leftjoin-001/solution.sql": "90d2bb06d3c5cefb2dcb5fbce30b513410ccb2bab31b64a16e912d38c37c8808",
-  "practice/sql/easy/easy-not-001/solution.sql": "ae173ed25e453277ab4eae894d13531877af53ac14ca86cfc6b0a38c08849ec9"
+  "practice/sql/easy/easy-not-001/solution.sql": "ae173ed25e453277ab4eae894d13531877af53ac14ca86cfc6b0a38c08849ec9",
+  "practice/python/easy/py-index-of-max/solution.py": "ebca617980b4fa0111d64093c677181607126760a8d08c0b6de4def7a4c2847b",
+  "practice/python/medium/py-next-workday/solution.py": "c037ad9e6abfe50e0557751a079e63858570e5a2817df831336547dc93fc84d6"
 }
