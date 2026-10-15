@@ -214,5 +214,18 @@
   "practice/sql/easy/easy-orderby-003/solution.sql": "399530f21aecdbdcf72ffbbed900adf6a021a66736a0456f60a42b7e19e2c4df",
   "practice/sql/easy/easy-min-001/solution.sql": "7bf76a098e8ad45e3b5035989c737d179970721250b80ef792cdf886208ebf29",
   "practice/sql/easy/easy-like-002/solution.sql": "47cfe0a7a793aadc63ef6a71d5e289d6c7da0e4717e1a453c13e262aeee71f1e",
-  "practice/sql/easy/easy-notlike-001/solution.sql": "359c158f2d4c8b29e30914fe6315a8f93e9b8a87f1a953937b57cffef79c0734"
+  "practice/sql/easy/easy-notlike-001/solution.sql": "359c158f2d4c8b29e30914fe6315a8f93e9b8a87f1a953937b57cffef79c0734",
+  "practice/python/medium/py-select-columns/solution.py": "819c20a102d874782137de556dbdc0ea47fb65926aca3db202aff90db2b5a5e1",
+  "practice/sql/easy/medium-monetary-002/solution.sql": "d690dc0655454aa1747e1a6cc59da7223cb4870acd05de9a0bb92334355311e9",
+  "practice/sql/medium/medium-frequency-002/solution.sql": "83923b1ade6402b7b04ceb6115e4677e094c5ed62f943bcf476e87ddd34dd10c",
+  "practice/sql/medium/medium-frequency-006/solution.sql": "8e987ff51d1adc6375ace0b6e5390c00dc96a64145a3e88254d6ca0d92fb85a4",
+  "practice/python/easy/py-char-position/solution.py": "1f670add2dcf636ad2e668462bd25b30cfbcc2561522a8ef49e981d07f07569b",
+  "practice/sql/easy/easy-trim-001/solution.sql": "3d57846278e0422aff77ee94cf5be1e085d53e42631fd11ff3e2035b81df4169",
+  "practice/sql/easy/easy-sum-005/solution.sql": "7d38a9f997989bb3d4278f0060f0a3b79adfc6ec0bbf00c2a4a76dba232bad50",
+  "practice/sql/medium/medium-recency-002/solution.sql": "b0e2158fa873122fdc7ac7272164573c4ddaf58840031d060eaa5f621fb07ba2",
+  "practice/sql/medium/medium-classify-001/solution.sql": "f374fd5d74bbc32e22e132511f3f3f5f94e9f1bc776a6df80ab7cc14c6d35564",
+  "practice/sql/medium/medium-repeat-001/solution.sql": "2a7af9c0d0fee7670a6e2e6afdab22e9ca5379380f64481deb8f683107b28c03",
+  "practice/sql/medium/medium-dedup-002/solution.sql": "24767a41a7563243be479ea319ede3b4b59732d9a75a1042954581cda7628714",
+  "practice/sql/medium/medium-dedup-001/solution.sql": "8ff2afdc1b85601ae48cb6f70c9fbb917bd44308fcf823749bb5dc3370fd61a5",
+  "practice/sql/medium/medium-dedup-003/solution.sql": "b0b7649e53c122b98c156916a1379588127313a32fde3aa41d5d72cfdf6aaa79"
 }
