@@ -227,5 +227,9 @@
   "practice/sql/medium/medium-repeat-001/solution.sql": "2a7af9c0d0fee7670a6e2e6afdab22e9ca5379380f64481deb8f683107b28c03",
   "practice/sql/medium/medium-dedup-002/solution.sql": "24767a41a7563243be479ea319ede3b4b59732d9a75a1042954581cda7628714",
   "practice/sql/medium/medium-dedup-001/solution.sql": "8ff2afdc1b85601ae48cb6f70c9fbb917bd44308fcf823749bb5dc3370fd61a5",
-  "practice/sql/medium/medium-dedup-003/solution.sql": "b0b7649e53c122b98c156916a1379588127313a32fde3aa41d5d72cfdf6aaa79"
+  "practice/sql/medium/medium-dedup-003/solution.sql": "b0b7649e53c122b98c156916a1379588127313a32fde3aa41d5d72cfdf6aaa79",
+  "practice/sql/medium/medium-winjoin-003/solution.sql": "4cfd10e09b1d38d7dc5bbc94ec3eb397ea8c3e455422150ba0b047d5784bdfaf",
+  "practice/sql/medium/medium-denserank-003/solution.sql": "26bc090394fc207596bf050f455dd6744a0a34d518c547f0c2ebdcadfbd0b5e8",
+  "practice/sql/medium/medium-cohort-001/solution.sql": "1769830acac6758f662ffcf4668664b60cfea607403e0e7e474404b3c69d456b",
+  "practice/sql/medium/medium-cohort-002/solution.sql": "7c6024430b07f3d08af3f7d40b5f1058d9ca2ffdf8e95f6d97de82ade734a3db"
 }

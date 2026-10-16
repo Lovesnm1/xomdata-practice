@@ -4,28 +4,28 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**229** problems solved on [Xom Data](https://xomdata.com/practice).
+**233** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Git | 1 | 0 | 0 | 0 | 1 |
 | Python | 45 | 32 | 3 | 2 | 82 |
-| SQL | 76 | 59 | 10 | 1 | 146 |
+| SQL | 76 | 63 | 10 | 1 | 150 |
 
 **Recently solved**
 
+- [medium-cohort-002](https://xomdata.com/practice/medium-cohort-002) · Medium · 2026-10-16
+- [medium-cohort-001](https://xomdata.com/practice/medium-cohort-001) · Medium · 2026-10-16
+- [medium-denserank-003](https://xomdata.com/practice/medium-denserank-003) · Medium · 2026-10-16
+- [medium-winjoin-003](https://xomdata.com/practice/medium-winjoin-003) · Medium · 2026-10-15
 - [medium-dedup-003](https://xomdata.com/practice/medium-dedup-003) · Medium · 2026-10-15
 - [medium-dedup-001](https://xomdata.com/practice/medium-dedup-001) · Medium · 2026-10-15
 - [medium-dedup-002](https://xomdata.com/practice/medium-dedup-002) · Medium · 2026-10-15
 - [medium-repeat-001](https://xomdata.com/practice/medium-repeat-001) · Medium · 2026-10-14
 - [medium-classify-001](https://xomdata.com/practice/medium-classify-001) · Medium · 2026-10-14
 - [medium-recency-002](https://xomdata.com/practice/medium-recency-002) · Medium · 2026-10-14
-- [easy-sum-005](https://xomdata.com/practice/easy-sum-005) · Easy · 2026-10-14
-- [easy-trim-001](https://xomdata.com/practice/easy-trim-001) · Easy · 2026-10-14
-- [py-char-position](https://xomdata.com/practice/py-char-position) · Easy · 2026-10-14
-- [medium-frequency-006](https://xomdata.com/practice/medium-frequency-006) · Medium · 2026-10-14
 
-_Synced 229 solutions · last update 2026-10-15_
+_Synced 233 solutions · last update 2026-10-16_
 
 <!-- xomdata:stats:end -->
 
