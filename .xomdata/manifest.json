@@ -231,5 +231,8 @@
   "practice/sql/medium/medium-winjoin-003/solution.sql": "4cfd10e09b1d38d7dc5bbc94ec3eb397ea8c3e455422150ba0b047d5784bdfaf",
   "practice/sql/medium/medium-denserank-003/solution.sql": "26bc090394fc207596bf050f455dd6744a0a34d518c547f0c2ebdcadfbd0b5e8",
   "practice/sql/medium/medium-cohort-001/solution.sql": "1769830acac6758f662ffcf4668664b60cfea607403e0e7e474404b3c69d456b",
-  "practice/sql/medium/medium-cohort-002/solution.sql": "7c6024430b07f3d08af3f7d40b5f1058d9ca2ffdf8e95f6d97de82ade734a3db"
+  "practice/sql/medium/medium-cohort-002/solution.sql": "7c6024430b07f3d08af3f7d40b5f1058d9ca2ffdf8e95f6d97de82ade734a3db",
+  "practice/python/medium/py-title-case-exceptions/solution.py": "276a5d7291fb32db19ba2bb147c193076e3e7cd91e24828641fa8e6ff32e12ea",
+  "practice/python/medium/py-parse-date-parts/solution.py": "cbac08f8b2d71c608538dca51d2d1ca44af430f84c574e02151eb86d36578fee",
+  "practice/sql/easy/easy-max-002/solution.sql": "d911401c5bd0286aebcca646cd3eddafdb679113ae9f596bc8a346bd6efb4431"
 }
