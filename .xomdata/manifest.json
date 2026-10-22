@@ -234,5 +234,15 @@
   "practice/sql/medium/medium-cohort-002/solution.sql": "7c6024430b07f3d08af3f7d40b5f1058d9ca2ffdf8e95f6d97de82ade734a3db",
   "practice/python/medium/py-title-case-exceptions/solution.py": "276a5d7291fb32db19ba2bb147c193076e3e7cd91e24828641fa8e6ff32e12ea",
   "practice/python/medium/py-parse-date-parts/solution.py": "cbac08f8b2d71c608538dca51d2d1ca44af430f84c574e02151eb86d36578fee",
-  "practice/sql/easy/easy-max-002/solution.sql": "d911401c5bd0286aebcca646cd3eddafdb679113ae9f596bc8a346bd6efb4431"
+  "practice/sql/easy/easy-max-002/solution.sql": "d911401c5bd0286aebcca646cd3eddafdb679113ae9f596bc8a346bd6efb4431",
+  "practice/sql/easy/easy-like-003/solution.sql": "6a9d25da35cca16d9a671f689d2d04182a40130152360360beaaa12f8e19857f",
+  "practice/python/medium/py-inventory-merge/solution.py": "7aa9e4816857f9448871d7387c3471b7d735116cce54795c65f20193e9627001",
+  "practice/python/medium/py-vote-winner/solution.py": "40c2f8864f4cb1e346bbe538720b9573e96216d78894c0db6857023172ab1643",
+  "practice/sql/easy/easy-orderby-002/solution.sql": "31d9793aa0ed26f00382198dcfffcc48cbe479d8788aeab01b48b44a79b405ff",
+  "practice/python/nightmare/py-multiply-strings/solution.py": "e824fd8838f74fae3a54681605dcc8e5710bca3bb17929c306e8e816d1302b87",
+  "practice/sql/medium/medium-active-003/solution.sql": "e3b03ed88824b2937bb71de1bb19666ded9008c697c97381e1f4d42ec2ea1d2e",
+  "practice/sql/medium/medium-repeat-002/solution.sql": "173f875b392685ec2d95b95d48f4e78136bec2d683941f47734bcd1d1800c655",
+  "practice/sql/medium/medium-repeat-003/solution.sql": "fbaead1ff670a33cdc2342be4101d1eab4ac5f881fa9c0a6d2a57a982bf96df6",
+  "practice/sql/medium/medium-cohort-005/solution.sql": "60f7b5db26076d97cc3bff3c2b99f4186907bb6b2c5153539a8014d439508a16",
+  "practice/sql/easy/medium-active-002/solution.sql": "8ae4f03f7876f565f01a8f99606b360b8edc1b7ef62e78808e02c2af1ca819d3"
 }
