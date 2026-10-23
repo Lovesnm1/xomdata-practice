@@ -244,5 +244,10 @@
   "practice/sql/medium/medium-repeat-002/solution.sql": "173f875b392685ec2d95b95d48f4e78136bec2d683941f47734bcd1d1800c655",
   "practice/sql/medium/medium-repeat-003/solution.sql": "fbaead1ff670a33cdc2342be4101d1eab4ac5f881fa9c0a6d2a57a982bf96df6",
   "practice/sql/medium/medium-cohort-005/solution.sql": "60f7b5db26076d97cc3bff3c2b99f4186907bb6b2c5153539a8014d439508a16",
-  "practice/sql/easy/medium-active-002/solution.sql": "8ae4f03f7876f565f01a8f99606b360b8edc1b7ef62e78808e02c2af1ca819d3"
+  "practice/sql/easy/medium-active-002/solution.sql": "8ae4f03f7876f565f01a8f99606b360b8edc1b7ef62e78808e02c2af1ca819d3",
+  "practice/sql/medium/medium-frequency-003/solution.sql": "67fb4709c188763b69fdca16c17aaf71e5bdd7dd852a5dd4b17901375570e479",
+  "practice/sql/medium/medium-recency-003/solution.sql": "0ba6a4548e8cfaa70aed2cd81054a0ea16f977be8177409f82a09f16a7d0511b",
+  "practice/sql/hard/hard-ltv-001/solution.sql": "53bf227e80adede1519aeef4826e46ce640ee86b5b9eee1f88aea86798add318",
+  "practice/sql/hard/hard-winback-001/solution.sql": "7ca2413bbf2d5231669bd7169f495bcf7c17c4b91e6766864ca9055a021eb63a",
+  "practice/sql/hard/hard-retention-003/solution.sql": "fd3495bec13980406037a3693856c67f9a2211d6ac3595f584e251364911f7ce"
 }
