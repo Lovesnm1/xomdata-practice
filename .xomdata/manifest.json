@@ -249,5 +249,12 @@
   "practice/sql/medium/medium-recency-003/solution.sql": "0ba6a4548e8cfaa70aed2cd81054a0ea16f977be8177409f82a09f16a7d0511b",
   "practice/sql/hard/hard-ltv-001/solution.sql": "53bf227e80adede1519aeef4826e46ce640ee86b5b9eee1f88aea86798add318",
   "practice/sql/hard/hard-winback-001/solution.sql": "7ca2413bbf2d5231669bd7169f495bcf7c17c4b91e6766864ca9055a021eb63a",
-  "practice/sql/hard/hard-retention-003/solution.sql": "fd3495bec13980406037a3693856c67f9a2211d6ac3595f584e251364911f7ce"
+  "practice/sql/hard/hard-retention-003/solution.sql": "fd3495bec13980406037a3693856c67f9a2211d6ac3595f584e251364911f7ce",
+  "practice/python/easy/py-nth-or-none/solution.py": "56a1886709ad29941bd6e5528b8ce7577eda4f666b6e1f0c6439385d114266fd",
+  "practice/python/easy/py-price-lookup/solution.py": "13cd143368c7c6ead9ca01668a1c63820e198f6e52f41d5c4433d6b4ae47f979",
+  "practice/sql/medium/medium-firstlast-002/solution.sql": "b4465854451a63e46689499af80cf97f09687ef079d3c1c4425ffcab92aad78b",
+  "practice/python/medium/py-gcd/solution.py": "34370273c24eb688dd8bddecb329b7c42e199c768e6e61f21635339fb817549f",
+  "practice/python/medium/py-sort-score-name/solution.py": "5616cca8ffef055bf17b49ad36a85f8369f3b48c3aba8e17f1d25ee1230fbe94",
+  "practice/python/medium/py-earliest-latest/solution.py": "adbf03e00c615ece5b65f191258b6c6fa3d677e205257387da19b5218dc9992f",
+  "practice/python/medium/py-competition-rank/solution.py": "20ed898ad525825ca25c4a52ff32e95d2add7db69cb8fada80e6af7de594e9ac"
 }
