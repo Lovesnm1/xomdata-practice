@@ -4,28 +4,28 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**258** problems solved on [Xom Data](https://xomdata.com/practice).
+**277** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Git | 1 | 0 | 0 | 0 | 1 |
-| Python | 47 | 40 | 3 | 3 | 93 |
-| SQL | 80 | 70 | 13 | 1 | 164 |
+| Python | 53 | 50 | 3 | 3 | 109 |
+| SQL | 83 | 70 | 13 | 1 | 167 |
 
 **Recently solved**
 
-- [py-competition-rank](https://xomdata.com/practice/py-competition-rank) · Medium · 2026-10-29
-- [py-earliest-latest](https://xomdata.com/practice/py-earliest-latest) · Medium · 2026-10-29
-- [py-sort-score-name](https://xomdata.com/practice/py-sort-score-name) · Medium · 2026-10-28
-- [py-gcd](https://xomdata.com/practice/py-gcd) · Medium · 2026-10-28
-- [medium-firstlast-002](https://xomdata.com/practice/medium-firstlast-002) · Medium · 2026-10-27
-- [py-price-lookup](https://xomdata.com/practice/py-price-lookup) · Easy · 2026-10-26
-- [py-nth-or-none](https://xomdata.com/practice/py-nth-or-none) · Easy · 2026-10-24
-- [hard-retention-003](https://xomdata.com/practice/hard-retention-003) · Hard · 2026-10-23
-- [hard-winback-001](https://xomdata.com/practice/hard-winback-001) · Hard · 2026-10-23
-- [hard-ltv-001](https://xomdata.com/practice/hard-ltv-001) · Hard · 2026-10-23
+- [py-priority-order](https://xomdata.com/practice/py-priority-order) · Medium · 2026-11-12
+- [py-distinct-per-group](https://xomdata.com/practice/py-distinct-per-group) · Medium · 2026-11-11
+- [py-case-insensitive-order](https://xomdata.com/practice/py-case-insensitive-order) · Medium · 2026-11-11
+- [py-aggregate-two-fields](https://xomdata.com/practice/py-aggregate-two-fields) · Medium · 2026-11-11
+- [py-month-label](https://xomdata.com/practice/py-month-label) · Medium · 2026-11-11
+- [py-days-between](https://xomdata.com/practice/py-days-between) · Medium · 2026-11-10
+- [py-top-n-with-tie](https://xomdata.com/practice/py-top-n-with-tie) · Medium · 2026-11-10
+- [py-first-negative-balance](https://xomdata.com/practice/py-first-negative-balance) · Medium · 2026-11-10
+- [py-group-then-sort](https://xomdata.com/practice/py-group-then-sort) · Medium · 2026-11-10
+- [py-caesar-shift](https://xomdata.com/practice/py-caesar-shift) · Medium · 2026-11-09
 
-_Synced 258 solutions · last update 2026-10-29_
+_Synced 277 solutions · last update 2026-11-12_
 
 <!-- xomdata:stats:end -->
 
